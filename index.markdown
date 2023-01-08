@@ -9,7 +9,7 @@ layout: page
 
 Hello! Welcome to my personal website.
 
-I am a fourth year Ph.D. Candidate at N.C. State University. My research interests are focused on studying transportation impacts of AV, CAV truck related impacts on macro and micro level. When not working, I enjoy kayaking, hiking, swimming and playing board games. 
+I am a Ph.D. Candidate at N.C. State University. My research interests are focused on studying transportation impacts of AV, CAV truck related impacts on macro and micro level. When not working, I enjoy kayaking, hiking, swimming and playing board games. 
 
 
 Recent work:
