@@ -7,7 +7,7 @@ layout: page
 
 Hello! Welcome to my personal website.
 
-![Cropped_Headshot_Soumya_Sharma_2020](https://user-images.githubusercontent.com/52041865/211178065-e47956e9-4771-4b26-b65c-2107c316a7d3.jpeg)
+<img align="right" width="100" height="100" alt="Headshot_Soumya_Sharma_2020.jpeg" src="Headshot_Soumya_Sharma_2020.jpeg" title="Headshot_Soumya_Sharma_2020"/>
 
 
 I am a fourth year Ph.D. Candidate at N.C. State University. My research interests are focused on studying transportation impacts of AV, CAV truck related impacts on macro and micro level. When not working, I enjoy kayaking, hiking, swimming and playing board games. 
