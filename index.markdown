@@ -22,8 +22,8 @@ Publications:
 
 Relevant Projects:
 * Impacts of Autonomous Vehicle Technology on Transportation Systems (NCDOT Research Project # 2019-11) (Aug 2018 – July 2021)
-* Incorporating e-commerce and Autonomous Vehicle Trips in the Triangle Regional Model (TRM) of North Carolina (Aug 2021- Present)
-* ARPA-e Single Train Simulator, Multi-Decadal Decarbonization Pathways for U.S. Freight Rail
+* Incorporating e-commerce and Autonomous Vehicle Trips in the Triangle Regional Model (TRM) of North Carolina (Aug 2021- October 2022)
+* ARPA-e Single Train Simulator, Multi-Decadal Decarbonization Pathways for U.S. Freight Rail (May 2022- Present)
 
 Awards & Scholarships
 *	Summer Graduate Merit Award (GMA), NC State (2021)
