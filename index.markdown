@@ -13,7 +13,9 @@ I am a Ph.D. Candidate at N.C. State University. My research interests are focus
 
 
 Recent work:
-[Impacts of Connected and Autonomous Trucks on Urban Network Performance](https://github.com/ssharm36/ssharm36.github.io/files/10363335/Impacts.of.Connected.and.Autonomous.Trucks.on.Urban.Network.Performance.pdf)
+* [Impacts of Connected and Autonomous Trucks on Urban Network Performance](https://github.com/ssharm36/ssharm36.github.io/files/10363335/Impacts.of.Connected.and.Autonomous.Trucks.on.Urban.Network.Performance.pdf)
+* Incorporating e-commerce and Autonomous Vehicle Trips in the Triangle Regional Model (TRM) of North Carolina
+
 
 Publications:
 *	Sharma, Soumya, Samandar, M.S., G. List, L. Huntsinger, E. Bardaka “Impacts of Connected and Autonomous Trucks on Urban Network Performance”, Policy Insights from Travel Forecasting, Conference presentation at the 101st TRB Annual Meeting, Washington, DC, January 2022. 
