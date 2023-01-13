@@ -21,6 +21,7 @@ Publications:
 *	Sharma, Soumya, Samandar, M.S., G. List, L. Huntsinger, E. Bardaka “Impacts of Connected and Autonomous Trucks on Urban Network Performance”, Policy Insights from Travel Forecasting, Conference presentation at the 101st TRB Annual Meeting, Washington, DC, January 2022. 
 *	Samandar, M.S., S. Sharma, N. Rouphail, E. Bardaka, B. Williams, G. List “Roadmap for Incorporating Autonomy and Connectivity: Modeling Mobility Impacts in Simulation.” Proceedings of the 99th TRB Annual Meeting, Washington, DC, January 2020.
 *	Sharma, Soumya, and Srinivas S. Pulugurtha. "Modeling crash risk at rail-highway grade crossings by track class." Journal of transportation technologies, 9(03) page 261, May 2019.
+*	Nujjetty, A. P., S. Sharma, and Council, F. M. (2015). Highway Safety Information System (HSIS) Guidebook for Data Files Illinois. Transportation Research International Documentation (TRID). https://rosap.ntl.bts.gov/view/dot/55838. 
 
 Relevant Projects:
 * Impacts of Autonomous Vehicle Technology on Transportation Systems (NCDOT Research Project # 2019-11) (Aug 2018 – July 2021)
