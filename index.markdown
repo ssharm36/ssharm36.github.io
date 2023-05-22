@@ -14,7 +14,8 @@ I am a Ph.D. Candidate at N.C. State University. My research interests are focus
 
 Recent work:
 * [Impacts of Connected and Autonomous Trucks on Urban Network Performance](https://github.com/ssharm36/ssharm36.github.io/files/10363335/Impacts.of.Connected.and.Autonomous.Trucks.on.Urban.Network.Performance.pdf)
-* Incorporating e-commerce and Autonomous Vehicle Trips in the Triangle Regional Model (TRM) of North Carolina
+* [Incorporating e-commerce and Autonomous Vehicle Trips in the Triangle Regional Model (TRM) of North Carolina](https://github.com/ssharm36/ssharm36.github.io/files/11532954/Treatment.of.E-commerce.in.TRMG2_Finalized_Report.pdf)
+
 
 
 Publications:
