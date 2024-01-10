@@ -9,7 +9,7 @@ layout: page
 
 Hello! Welcome to my personal website.
 
-I am a Ph.D. Candidate at N.C. State University. My research interests are focused on studying transportation impacts of AV, CAV truck related impacts on macro and micro level. When not working, I enjoy kayaking, hiking, swimming and playing board games. 
+I am a Ph.D. in Civil Engineering from N.C. State University. My research interests are focused on studying transportation impacts of AV, CAV truck related impacts on macro and micro level. I am currently working as a Trnansportation Data Scientist for *[AECOM](https://aecom.com/), where I work on cutting-edge Transportation Planning, Travel Demand Modeling projects such as the TxDOT's *[Regional Express Access Lanes Plan (REAL)] (https://www.txdot.gov/projects/projects-studies/houston/real-plan.html). When not working, I enjoy kayaking, hiking, swimming and playing board games. 
 
 
 Recent work:
